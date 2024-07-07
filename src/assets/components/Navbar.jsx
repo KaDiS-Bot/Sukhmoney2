@@ -102,8 +102,8 @@ function Navbar() {
             isOpen ? 'block' : 'hidden'
           } md:flex space-x-4 mt-4 md:mt-0 md:space-x-8`}
         >
-          <a href="/login" className="block mt-2 md:inline-block md:mt-0 hover:underline irish">Login</a>
-          <a href="/signup" className="block mt-2 md:inline-block md:mt-0 hover:underline irish">Signup</a>
+          // <a href="/login" className="block mt-2 md:inline-block md:mt-0 hover:underline irish">Login</a>
+          // <a href="/signup" className="block mt-2 md:inline-block md:mt-0 hover:underline irish">Signup</a>
           <a href="/contactus" className="block mt-2 md:inline-block md:mt-0 hover:underline irish">Contact Us</a>
           <a href="/moreinfo" className="block mt-2 md:inline-block md:mt-0 hover:underline irish">More Info</a>
         </div>
